@@ -2,6 +2,8 @@
 #include<vector>
 #include<algorithm>
 
+using namespace std;  
+
 class Solution {
 public:
     const int diff[4][2]={{0,-1},{0,1},{-1,0},{1,0}};
